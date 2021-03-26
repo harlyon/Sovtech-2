@@ -38,7 +38,7 @@
     "@babel/core": "^7.5.4",
     "@babel/preset-env": "^7.5.4",
     "babel-loader": "^8.0.6",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "webpack": "^4.35.3"
   }
 }
